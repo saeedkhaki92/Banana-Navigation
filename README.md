@@ -1,7 +1,7 @@
 # Banana Navigation
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](Banana-Navigation/Images/banana-intro.gif
 
 ## Environment Details
 
