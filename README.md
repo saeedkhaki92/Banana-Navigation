@@ -1,7 +1,7 @@
 # Banana Navigation
 
 
-![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/banana-intro.gif.gif)
+![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/banana-intro.gif)
 
 ## Environment Details
 
