@@ -9,9 +9,9 @@ In general, there are two ways to find the q-value function: (1) lookup table (2
 
 In this project, we used Q-learning algorithm (deep Q-network) to approximate the Q-value function. The deep Q-network uses the following two techniques to help the neural network converge to the correct Q-value function:
 
-\begin{enumerate}
-\item experience replay
-\item fixed Q-target
+
+1. experience replay
+2. item fixed Q-target
 \end{enumerate}
 
 Experience replay breaks the time correlation between samples and prevents the network from diverging. Fixed Q-target helps the network to converge by using previous fixed weights for computing Q-targets.
@@ -20,3 +20,7 @@ Experience replay breaks the time correlation between samples and prevents the n
 In this project, we used a vanilla DQN as in the originl paper, but we did not use image frames as state. So, we replaced the convolutional neural networks with a fully-conntected neural networks.
 
 ## Q-network
+
+
+
+![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/nn.jpg)
