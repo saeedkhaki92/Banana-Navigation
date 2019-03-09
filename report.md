@@ -22,7 +22,7 @@ In this project, we used a vanilla DQN as in the originl paper, but we did not u
 ## Q-network
 
 
-The Q-network that was used in this project was a fully-connected neural network with 3 hidden layers, each having 40 neurons. The Relu activation functions was used for all layers except the output layer which had linear activation function. Following Figure shows the modeling structure of the Q-network.
+The Q-network that was used in this project was a fully-connected neural network with 3 hidden layers, each having 40 neurons. The Relu activation functions was used for all layers except the output layer which had linear activation function. Following figure shows the modeling structure of the Q-network.
 
 ![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/nn.jpg)
 
@@ -40,6 +40,12 @@ The Q-network that was used in this project was a fully-connected neural network
 * epsilon decay rate of 0.999
 * epsilon start point of 1.0
 * maximum number of time step of 1000
+
+## Results
+
+
+We trained the agent using DQN algorithm on GPU and it took about 0.5 hours to be trained. The DQN model solved the problem in 1791 episodes, and scored above 13.01 in 100 episodes. Following figure shows the average score plot.
+
 
 
 
