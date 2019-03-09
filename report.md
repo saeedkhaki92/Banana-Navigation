@@ -54,7 +54,7 @@ We trained the agent using DQN algorithm on GPU and it took about 0.5 hours to b
 ![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/random.gif)
 
 
-### trained model
+### Trained model
 ![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/banana-intro.gif)
 
 
