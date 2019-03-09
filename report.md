@@ -22,5 +22,24 @@ In this project, we used a vanilla DQN as in the originl paper, but we did not u
 ## Q-network
 
 
+The Q-network that was used in this project was a fully-connected neural network with 3 hidden layers, each having 40 neurons. The Relu activation functions was used for all layers except the output layer which had linear activation function. Following Figure shows the modeling structure of the Q-network.
 
 ![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/nn.jpg)
+
+## DQN Hyperparameters
+
+
+* batch size of 32
+*buffer size of 100,000
+*learning rate of 0.0005
+\item soft update learning rate of 0.001
+\item updated the network every 8 time steps
+\item discount factor of 0.99
+\item maximum number of episode of 4000
+\item minimum epsilon of 0.01
+\item epsilon decay rate of 0.999
+\item epsilon start point of 1.0
+\item maximum number of time step of 1000
+
+
+
