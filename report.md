@@ -47,5 +47,7 @@ The Q-network that was used in this project was a fully-connected neural network
 We trained the agent using DQN algorithm on GPU and it took about 0.5 hours to be trained. The DQN model solved the problem in 1791 episodes, and scored above 13.01 in 100 episodes. Following figure shows the average score plot.
 
 
+![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/scores.png)
+
 
 
