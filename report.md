@@ -29,17 +29,17 @@ The Q-network that was used in this project was a fully-connected neural network
 ## DQN Hyperparameters
 
 
-*batch size of 32
-*buffer size of 100,000
-*learning rate of 0.0005
-*soft update learning rate of 0.001
-*updated the network every 8 time steps
-*discount factor of 0.99
-*maximum number of episode of 4000
-*minimum epsilon of 0.01
-*epsilon decay rate of 0.999
-*epsilon start point of 1.0
-*maximum number of time step of 1000
+* batch size of 32
+* buffer size of 100,000
+* learning rate of 0.0005
+* soft update learning rate of 0.001
+* updated the network every 8 time steps
+* discount factor of 0.99
+* maximum number of episode of 4000
+* minimum epsilon of 0.01
+* epsilon decay rate of 0.999
+* epsilon start point of 1.0
+* maximum number of time step of 1000
 
 
 
