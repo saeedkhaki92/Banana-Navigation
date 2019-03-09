@@ -50,4 +50,21 @@ We trained the agent using DQN algorithm on GPU and it took about 0.5 hours to b
 ![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/scores.png)
 
 
+## Conclusion
+
+
+The pipeline shows a good performance in solving the navigation problem. The model can be further improved by further optimization of the hyperparameters to better approximate the complex Q-value function. It is really challenging to find the best architecture of the Q-network. For example, the optimal number of hidden layers is not easy to find.
+
+As future work, following approaches can be used to improve the performance of DQN algorithm.
+
+* Double Deep Q Networks
+
+* Learning from pixels
+
+* Dueling Deep Q Networks 
+
+
+
+
+
 
