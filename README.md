@@ -1,4 +1,4 @@
-# Banana Navigation
+# Banana Navigation Udacity Project
 
 
 ![Alt Text](https://github.com/saeedkhaki92/Banana-Navigation/blob/master/Images/banana-intro.gif)
